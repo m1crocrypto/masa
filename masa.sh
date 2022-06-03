@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Устанавливаем полезные пакеты
 sudo apt-get update && sudo apt-get upgrade -y
